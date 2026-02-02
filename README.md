@@ -18,3 +18,9 @@ The workflow simulates both small and large-scale datasets to reflect real-world
 - **GitHub** – Version control & project showcase
 
 ## Project Structure
+```
+data/ → Raw & large datasets
+notebooks/ → Python data generation & validation
+sql/ → SQL analysis queries
+powerbi/ → Power BI dashboard
+```
