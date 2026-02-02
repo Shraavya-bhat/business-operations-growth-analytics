@@ -24,3 +24,15 @@ notebooks/ → Python data generation & validation
 sql/ → SQL analysis queries
 powerbi/ → Power BI dashboard
 ```
+
+
+## Key Insights
+- Total Revenue & Order Volume
+- Monthly revenue trends
+- Revenue by region & category
+- Top-performing products
+
+## Dashboard Preview
+The Power BI dashboard provides an executive-level view of business performance with interactive filters.
+
+
