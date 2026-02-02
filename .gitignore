@@ -1,0 +1,10 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Anaconda / local DB
+anaconda_projects.db
+project_filebrowser.db
+
+# OS / editor junk
+.DS_Store
+Thumbs.db

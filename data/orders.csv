@@ -1,0 +1,11 @@
+order_id,order_date,customer_id,customer_name,region,category,product_name,sales,quantity
+1001,05-01-2023,C001,Aarav,South,Technology,Laptop,75000,1
+1002,07-01-2023,C002,Meera,North,Furniture,Office Chair,12000,2
+1003,10-02-2023,C003,Rahul,East,Technology,Tablet,30000,1
+1004,15-02-2023,C001,Aarav,South,Technology,Mouse,1500,3
+1005,12-03-2023,C004,Ananya,West,Office Supplies,Notebook,800,5
+1006,18-03-2023,C005,Vikram,North,Technology,Laptop,78000,1
+1007,05-04-2023,C006,Priya,East,Furniture,Desk,25000,1
+1008,20-04-2023,C002,Meera,North,Office Supplies,Pen Set,1200,4
+1009,10-05-2023,C007,Rohan,South,Technology,Monitor,22000,1
+1010,22-05-2023,C003,Rahul,East,Technology,Laptop,76000,1
