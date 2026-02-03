@@ -34,5 +34,6 @@ powerbi/ → Power BI dashboard
 
 ## Dashboard Preview
 The Power BI dashboard provides an executive-level view of business performance with interactive filters.
+![Power BI Dashboard](assets/dashboard_overview.png)
 
 
