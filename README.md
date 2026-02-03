@@ -37,3 +37,9 @@ The Power BI dashboard provides an executive-level view of business performance 
 ![Power BI Dashboard](assets/dashboard_overview.png)
 
 
+**Overview:**
+- Total Revenue & Order Volume KPIs
+- Monthly revenue trend analysis
+- Revenue distribution by region
+- Top-performing products
+- Interactive filters for region and category
